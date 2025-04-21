@@ -11,10 +11,10 @@ const Footer: React.FC = () => {
         <div className="flex flex-col md:flex-row justify-between items-center">
           <div className="text-center md:text-left mb-4 md:mb-0">
             <h3 className="text-xl font-bold text-text-dark dark:text-text-light">
-              John.Dev
+              Murad.Hossen
             </h3>
             <p className="text-text-muted dark:text-text-light/70 mt-1">
-              .NET Developer | ASP.NET Core | React
+              .NET Developer | ASP.NET Core | Angular
             </p>
           </div>
           
@@ -36,7 +36,7 @@ const Footer: React.FC = () => {
         
         <div className="mt-6 pt-6 border-t border-light-border dark:border-dark-border text-center">
           <p className="text-text-muted dark:text-text-light/70 text-sm">
-            &copy; {currentYear} John.Dev. All rights reserved.
+            &copy; {currentYear} Murad.Hossen. All rights reserved.
           </p>
         </div>
       </div>
